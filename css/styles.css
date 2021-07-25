@@ -623,11 +623,11 @@ pre code {
 }
 
 #work li {
-    font-size: 1rem;
+    font-size: 1rem !important;
 }
 
 #work li a {
-    font-size: 1.5rem;
+    font-size: 1.5rem !important;
 }
 
 @media (min-width: 576px) {
