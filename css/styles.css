@@ -517,6 +517,11 @@ mark,
     cursor: pointer;
 }
 
+.fa-php:hover {
+    color: #007aff;
+    cursor: pointer;
+}
+
 .initialism {
     font-size: 90%;
     text-transform: uppercase;
