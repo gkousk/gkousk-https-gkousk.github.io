@@ -517,6 +517,11 @@ mark,
     cursor: pointer;
 }
 
+.fa-database:hover {
+    color: #264ce5;
+    cursor: pointer;
+}
+
 .initialism {
     font-size: 90%;
     text-transform: uppercase;
@@ -4844,6 +4849,7 @@ input[type=button].btn-block {
     flex: 1 1 auto;
     min-height: 1px;
     padding: 1.25rem;
+    text-align: center;
 }
 
 .card-title {
@@ -10313,6 +10319,12 @@ section.resume-section {
 
 section.resume-section .resume-section-content {
     width: 100%;
+}
+
+.color {
+    color: #bd5d38;
+    font-size: 25px;
+    padding-top: 2%;
 }
 
 @media (min-width: 768px) {
