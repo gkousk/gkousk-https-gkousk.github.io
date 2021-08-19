@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-    color: #bd5d38;
+    color: #676979;
     text-decoration: none;
     background-color: transparent;
 }
 
 a:hover {
-    color: #824027;
+    color: #3f414d;
     text-decoration: underline;
 }
 
@@ -6805,7 +6805,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #bd5d38 !important;
+    background-color: #676979 !important;
 }
 
 a.bg-primary:hover,
@@ -10001,7 +10001,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-    color: #bd5d38 !important;
+    color: #676979 !important;
 }
 
 a.text-primary:hover,
@@ -10300,7 +10300,7 @@ p.lead {
 }
 
 .social-icons .social-icon:hover {
-    background-color: #bd5d38;
+    background-color: #676979;
 }
 
 .dev-icons {
@@ -10322,7 +10322,7 @@ section.resume-section .resume-section-content {
 }
 
 .color {
-    color: #bd5d38;
+    color: #676979 !important;
     font-size: 25px;
     padding-top: 2%;
 }
