@@ -162,13 +162,13 @@ sup {
 }
 
 a {
-    color: #676979;
+    color: #349beb;
     text-decoration: none;
     background-color: transparent;
 }
 
 a:hover {
-    color: #3f414d;
+    color: #2a7cbb;
     text-decoration: underline;
 }
 
@@ -519,6 +519,11 @@ mark,
 
 .fa-database:hover {
     color: #264ce5;
+    cursor: pointer;
+}
+
+.fa-wordpress:hover {
+    color: #15aabf;
     cursor: pointer;
 }
 
@@ -6805,7 +6810,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #676979 !important;
+    background-color: #349beb !important;
 }
 
 a.bg-primary:hover,
@@ -10001,7 +10006,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-    color: #676979 !important;
+    color: #349beb !important;
 }
 
 a.text-primary:hover,
@@ -10037,7 +10042,7 @@ a.text-info:focus {
 }
 
 .text-warning {
-    color: #ffc107 !important;
+    color: #349beb !important;
 }
 
 a.text-warning:hover,
@@ -10322,7 +10327,7 @@ section.resume-section .resume-section-content {
 }
 
 .color {
-    color: #676979 !important;
+    color: #349beb !important;
     font-size: 25px;
     padding-top: 2%;
 }
